@@ -1,0 +1,19 @@
+{
+  "name": "people-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "johnny-five": "^0.11.6",
+    "moment": "^2.19.1",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.3"
+  }
+}
